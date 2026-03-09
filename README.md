@@ -24,3 +24,7 @@ El objetivo es aplicar conceptos de programación y diseño de interfaces en un 
 1. Clona este repositorio:
    git clone https://github.com/usuario/calculadora-impuestos.git
    ejecuta el respectivo IDE
+---
+## Conclusiones
+Tras la realización de esta actividad puedo concluir que fue interesante realizar el proyecto que aunque simple fue bastante fastidioso que mi IDE fuera perjudicado en el proceso,
+pero dejando eso de lado se comprendio el resto de todo el proyecto
