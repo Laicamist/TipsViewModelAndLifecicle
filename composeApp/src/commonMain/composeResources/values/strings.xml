@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraDePropina</string>
+    <string name="titulo">Calculadora de propina</string>
+    <string name="monto">Importe de la cuenta $</string>
+    <string name="porcentaje">Porcentaje de propina %</string>
+    <string name="rendondear">¿Desea redondear?</string>
+    <string name="resultado">Monto de la propina:</string>
+</resources>
